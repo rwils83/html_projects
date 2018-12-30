@@ -1,0 +1,27 @@
+﻿html{
+	/*background-color: black;*/
+	color: red;
+	background-image:url(././3-08.svg);
+	/*background-image:url(././pardon-our-dust.jpg);*/
+	background-attachement:fixed;
+	background-size:center;
+}
+	
+h1{
+	text-align:center;
+	font-family:verdana;}
+#Top_Menu{
+	color: black;
+	font-family: sans serif;
+	padding: 10px;
+	margin:25px;
+	
+}
+#Navigation_options{
+	color:black;
+	padding-right:30px;
+}
+#Navigation_options:hover{
+	color:red;
+	font-weight:bold;
+}
